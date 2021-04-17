@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "FirstUp",
+    "owner": "Arathi S",
+    "description": "First check of seeing how this works."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Chemist Inventory",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Arathi S"
+  }
+}
